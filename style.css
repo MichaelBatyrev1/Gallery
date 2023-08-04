@@ -21,7 +21,7 @@ main{
 }
 body{
   background-color: aqua;
-  font-family: Roboto;
+  font-family: Tahoma (sans-serif);
 
 
 }
@@ -42,7 +42,7 @@ h1{
 
 }
 .photo:hover{
-  transform:  scale(1);
+  transform:  scale(1.2);
 
 }
 
